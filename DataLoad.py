@@ -75,4 +75,4 @@ def dataLoad(filename):
     df.to_csv('data.txt', index=False, sep=' ')
     
     return data
-
+HEj
